@@ -39,7 +39,7 @@ This site features AI modules powered by **Microsoft Azure AI Foundry**, includi
 I aim to build applications that are clean, scalable, and helpful. I’m always learning and looking forward to new challenges and innovations.
 
 Feel free to connect or explore more through my website:
-🔗 [https://www.hasnainhaidar.works](https://www.hasnainhaidar.works)
+🔗 [https://www.hasnainhaidar.works](https://portfolio.hasnainhaidar.works)
 
 ---
 
