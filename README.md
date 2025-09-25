@@ -23,7 +23,7 @@ This platform was developed using:
 
 ## 🌐 Hosted At
 
-[**hasnainhaidar.works**](https://www.hasnainhaidar.works)
+[**hasnainhaidar.works**](https://portfolio.hasnainhaidar.works)
 
 This site features AI modules powered by **Microsoft Azure AI Foundry**, including:
 
